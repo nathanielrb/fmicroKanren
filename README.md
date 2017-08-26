@@ -1,4 +1,10 @@
-# fµKanren
+**moved**
+
+to https://github.com/nathanielrb/ftmicroKanren
+
+
+
+# fÂµKanren
 
 An extension of Jason Hemann and Daniel P. Friedman's microKanren to allow reasoning on future values. This is done by implementing delayed streams (using Scheme promises) alongside immature and mature ones.
 
