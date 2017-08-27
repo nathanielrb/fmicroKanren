@@ -1,4 +1,4 @@
 **moved**
 
-to https://github.com/nathanielrb/tmicroKanren
+to https://github.com/nathanielrb/ftmicroKanren
 
